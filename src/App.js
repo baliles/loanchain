@@ -31,8 +31,8 @@ class App extends Component {
       <div>
         <div className = "jumbotron jumbotron-fluid">
           <div className = "container">
-            <h2 className = "display-4">Loan Management private blockchain</h2>            
-            <p className = "lead">{connected && "Loan management"}{!connected && "Connecting to Loanchain"}</p>
+            <h2 className = "display-4">ACME & Co. Private Blockchain</h2>            
+            <p className = "lead">{connected && "Loan management"}{!connected && "Connecting to your Loan Contract"}</p>
           </div>
         </div>
 
